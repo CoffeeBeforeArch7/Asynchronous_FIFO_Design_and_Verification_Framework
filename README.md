@@ -22,8 +22,7 @@ The verification framework incorporates:
 
   
 
-![image-20250107205138383]([C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20250107205138383.png](https://github.com/CoffeeBeforeArch7/Repo1/blob/main/images202501072117224.png))
-
+![](https://github.com/CoffeeBeforeArch7/Repo1/blob/main/images202501072117224.png?raw=true)
 
 
 
