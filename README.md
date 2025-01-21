@@ -15,12 +15,17 @@ The verification framework incorporates:
 - CDC (Clock Domain Crossing) analysis
 - Performance metrics collection and analysis
 
+<<<<<<< HEAD
 ![image-20250107211411850](https://raw.githubusercontent.com/CoffeeBeforeArch7/Repo1/main/images202501072118399.png)
+=======
+  
+
+![](https://github.com/CoffeeBeforeArch7/Repo1/blob/main/images202501072117224.png?raw=true)
+>>>>>>> 84d0af1f972fd51f233f3e4615e0acbb570ca84c
 
 
 
 ![image-20250107211932984](https://raw.githubusercontent.com/CoffeeBeforeArch7/Repo1/main/images202501072119313.png)
-
 
 
 ---
