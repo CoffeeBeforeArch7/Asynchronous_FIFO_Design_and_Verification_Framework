@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/home/ICer/ic_prjs/Practice2025/Project/Asyc_fifo_Verif/sim"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="O-2018.09-SP2"  />
+      <fileinfo name="../rtl/fifo1.sv"  id="0"  />
+      <fileinfo name="../rtl/fifomem.sv"  id="1"  />
+      <fileinfo name="../rtl/rptr_empty.sv"  id="2"  />
+      <fileinfo name="../rtl/sync_r2w.sv"  id="3"  />
+      <fileinfo name="../rtl/sync_w2r.sv"  id="4"  />
+      <fileinfo name="../rtl/wptr_full.sv"  id="5"  />
+      <fileinfo name="../svtb/interface.sv"  id="6"  />
+      <fileinfo name="../svtb/fifo_params.sv"  id="7"  />
+      <fileinfo name="../package/packet.sv"  id="8"  />
+      <fileinfo name="../env/generator.sv"  id="9"  />
+      <fileinfo name="../env/clockGenerator.sv"  id="10"  />
+      <fileinfo name="../env/resetGenerator.sv"  id="11"  />
+      <fileinfo name="../env/scoreboard.sv"  id="12"  />
+      <fileinfo name="../env/driver.sv"  id="13"  />
+      <fileinfo name="../env/monitor.sv"  id="14"  />
+      <fileinfo name="../svtb/environment.sv"  id="15"  />
+      <fileinfo name="../svtb/fifo_top.sv"  id="16"  />
+      <fileinfo name="../svtb/top.sv"  id="17"  />
+    </srcinfo>
