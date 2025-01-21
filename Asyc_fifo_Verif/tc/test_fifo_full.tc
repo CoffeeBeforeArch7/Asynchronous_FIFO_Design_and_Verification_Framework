@@ -1,0 +1,15 @@
+top.env.gendata(16);
+fork
+    begin
+        repeat(5) @(posedge itf.wclk);
+        top.env.fifoWrite(1,16);
+        repeat(5) @(posedge itf.wclk);
+    end
+
+    begin
+        forever @(posedge itf.wclk) begin
+            fifo_wr_cov.sample();
+            fifo_rd_cov.sample();
+        end
+    end
+join_any

@@ -1,0 +1,75 @@
+global coverage_group 0 fifo_params::scoreboard#(8)::wrc __coverage_scoreboard#(8).wrc unused_scoreboard#(8)_wrc_loop_label fifo_params 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 80 /home/ICer/ic_prjs/Practice2025/Project/Asyc_fifo_Verif/sim/../env/scoreboard.sv
+ 14 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+0
+0
+ 7 winc_cp 15 0 0 0 0 112 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn 112 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 32 1 18 fifo_params::opt_e 1 1 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 2 wr 16 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_0 0 0 0 0 0 0 0
+ 1 2 0 0 1 1 3 nop 17 0 0 2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_1 0 0 0 0 0 0 0
+
+ 7 rinc_cp 19 0 0 0 0 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_2 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 32 1 18 fifo_params::opt_e 1 1 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 2 rd 20 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_1 0 0 0 0 0 0 0
+ 1 2 0 0 1 1 3 nop 21 0 0 2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 114 fifo_params_scoreboard_7821792521382294244_7::fifo_params_scoreboard_7821792521382294244_7_scoreboard#(8)_wrc_fn_0 0 0 0 0 0 0 0
+
+end_coverage_group

@@ -9,22 +9,17 @@ The Asynchronous FIFO Design and Verification Framework is a comprehensive imple
 The verification framework incorporates:
 
 - SystemVerilog testbench
-
 - Comprehensive test scenarios covering corner cases
-
 - Functional coverage collection and monitoring
-
 - Assertion-based verification for protocol compliance
-
 - CDC (Clock Domain Crossing) analysis
-
 - Performance metrics collection and analysis
 
-  
-
-![image-20250107205138383](C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20250107205138383.png)
+![image-20250107211411850](https://raw.githubusercontent.com/CoffeeBeforeArch7/Repo1/main/images202501072118399.png)
 
 
+
+![image-20250107211932984](https://raw.githubusercontent.com/CoffeeBeforeArch7/Repo1/main/images202501072119313.png)
 
 
 

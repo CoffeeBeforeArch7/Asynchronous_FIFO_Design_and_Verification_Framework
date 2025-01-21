@@ -1,0 +1,48 @@
+Name:	vcs1
+Umask:	0002
+State:	S (sleeping)
+Tgid:	63721
+Ngid:	0
+Pid:	63721
+PPid:	63456
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	256
+Groups:	18 1000 1001 
+VmPeak:	  300444 kB
+VmSize:	  300440 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   57144 kB
+VmRSS:	   57144 kB
+RssAnon:	   21332 kB
+RssFile:	   35812 kB
+RssShmem:	       0 kB
+VmData:	   28996 kB
+VmStk:	     180 kB
+VmExe:	  148916 kB
+VmLib:	   33616 kB
+VmPTE:	     532 kB
+VmSwap:	       0 kB
+Threads:	1
+SigQ:	0/39142
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000010002
+SigIgn:	0000000000000006
+SigCgt:	00000001800a7a11
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	ffffffff,ffffffff,ffffffff,ffffffff
+Cpus_allowed_list:	0-127
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	27
+nonvoluntary_ctxt_switches:	6
