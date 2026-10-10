@@ -1,0 +1,11 @@
+# VCS build and run output
+csrc/
+*simv*
+DVEfiles/
+AN.DB/
+*.vpd
+*.fsdb
+*.log
+ucli.key
+vc_hdrs.h
+stack.info.*/

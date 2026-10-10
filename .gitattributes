@@ -1,7 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Keep VCS build and coverage output out of the repository language statistics
-Asyc_fifo_Verif/sim/csrc/** linguist-generated
-Asyc_fifo_Verif/sim/simv.daidir/** linguist-generated
+# Keep the VCS coverage database out of the repository language statistics
 Asyc_fifo_Verif/sim/*.vdb/** linguist-generated
